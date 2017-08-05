@@ -1,5 +1,5 @@
 # Cicada3302
-##AVHS Cicada Puzzle for CCSC Recruits
+## AVHS Cicada Puzzle for CCSC Recruits
 
 First leg of Cicada 3302 AVHS puzzle
 
